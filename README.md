@@ -12,7 +12,8 @@ A very simple way to run `GUST-Lite.html` locally with COOP/COEP headers using P
 
 2. Run:
 ```bash
-python3 server.py```
+python3 server.py
+```
 
 3. Go to this url in your browser:
 http://localhost:8080/GUST-Lite.html
